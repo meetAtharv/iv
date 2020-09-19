@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    text-align: center;
+font-family: verdana,sans-serif;
+
+
+}
+
+h1{
+  margin-top:0px;
+  font-size: 90px;
+
+color: #66BFBF
+
+}
+
+.proo{
+  color: #66BFBF
+}
+.skill-row{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+    line-height: 2;
+
+  }
+  .bb{
+     float:right;
+    margin-left: 30px
+  }
+  .code{
+
+    margin-right: 30px
+  }
+.top-container{background-color: #E4F9F5;
+padding-top: 100px}
+
+.bottom-cloud{
+  position: absolute;
+  left: 500px;
+  bottom: 500px
+  right: 50px
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  right: 490px
+}
+.ATHARV{
+  height:300px;
+  width:200px;
+}
